@@ -19,10 +19,8 @@ function yourAnimal() {
   
   return animal
   
-  
 }
 
-console.log("ANIMAAAAL"+animal)
 
 function add2(n) {
   
