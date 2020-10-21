@@ -22,6 +22,8 @@ function yourAnimal() {
   
 }
 
+console.log("ANIMAAAAL"+animal)
+
 function add2(n) {
   
   const two = 2
