@@ -7,7 +7,7 @@ function myAnimal() {
 
 function yourAnimal() {
   
-    var myNewAnimal='cat'
+    var animal='cat'
     
 
   // The tests expect this function to return `animal` just like the previous function
